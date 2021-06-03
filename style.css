@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual-content {
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
+.main-visual-content2 {
+  background-image: url(img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
+.main-visual-content3 {
+  background-image: url(img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
+.main-visual-content4 {
+  background-image: url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
